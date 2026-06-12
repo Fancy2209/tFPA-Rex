@@ -1,0 +1,5 @@
+setjmp_address = 0x82210580
+longjmp_address = 0x82210850
+
+[functions]
+0x8236BB58 = {}
