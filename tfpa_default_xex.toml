@@ -3,3 +3,7 @@ longjmp_address = 0x82210850
 
 [functions]
 0x8236BB58 = {}
+0x820BAFF0 = {}
+0x820D0710 = {}
+0x82442AB8 = {}
+0x8243C0E8 = {}
